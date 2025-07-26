@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStream;
 
 
-//sesi çekebilmek için internetten fazlasıyla yararlandım.
 public class SoundPlayer {
 
     private Clip clip;
