@@ -33,7 +33,7 @@ public class Game extends Canvas implements Runnable{
     public Player.gun silah;
 
     public Game() {
-        SoundPlayer theDinerMusic = new SoundPlayer("/res/theDinerMusic.wav");
+        SoundPlayer theDinerMusic = new SoundPlayer("/res/theDinerMusic.mp3");
         theDinerMusic.loop();
         isSong = true;
 
